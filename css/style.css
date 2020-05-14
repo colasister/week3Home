@@ -90,7 +90,7 @@ h2{
 	font-size: 20px;
 }
 .banner{
-	background-image: url(./image/banner.png);
+	background-image: url(https://colasister.github.io/week3Home/image/banner.png);
 	height: 840px;
 	background-position: center center;
   background-size: cover;
@@ -208,7 +208,7 @@ margin-right: 0px;
 }
 
 .joint{
-	background-image: url(./image/bg.png);
+	background-image: url(https://colasister.github.io/week3Home/image/bg.png);
 		padding-bottom: 479px;
 		    background-position: center center;
     background-size: cover;
