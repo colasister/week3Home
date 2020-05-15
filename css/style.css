@@ -399,7 +399,7 @@ li.footerBottomPolicy:last-child {
 }
 
 .faqTop{
-	background-image: url(/image/faq.png);
+	background-image: url(https://colasister.github.io/week3Home/image/faq.png);
     background-repeat: no-repeat;
 		background-size: cover;
 		background-position: -100px 0;
